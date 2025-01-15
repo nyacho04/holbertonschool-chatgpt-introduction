@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 import sys
 
-def factiorial(n):
+def factorial(n):
     if n == 1:
         while n > 1:
             result *= n
